@@ -1,0 +1,8 @@
+- @title = "Shorten your link"
+
+= form_tag '/', method: 'post' do
+  %input.form-control.mbs.txc{ label: "Token", name: 'token', value: SecureRandom.hex[0..9], required: true }
+  %input.form-control.mbs.txc{ name: 'url', placeholder: 'Store your URL here', required: true }
+  %button.btn.btn-success.btn-fill.bw3{ type: 'submit' } Connect
+
+

@@ -1,0 +1,21 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  username: postgres
+  password: postgres
+  host: postgres
+
+
+development:
+  <<: *default
+  database: snpt_io_development
+
+
+staging:
+  <<: *default
+  database: snpt_io_staging
+
+test:
+  <<: *default
+  database: snpt_io_test
