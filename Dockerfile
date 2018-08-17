@@ -21,4 +21,7 @@ WORKDIR /app
 COPY Rakefile Gemfile Gemfile.lock ./
 RUN gem install bundler && bundle install --jobs 20
 
-CMD rm -f /app/tmp/pids/server.pid && rails server -p 3000 -b '0.0.0.0'
+CMD rm -f /app/tmp/pids/server.pid && \
+    sleep 10 && \
+    bundle exec rake db:create db:migrate && \
+    bundle exec rails server -p 3000 -b '0.0.0.0'

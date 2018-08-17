@@ -362,3 +362,594 @@ unison: started
 [2018-08-07 17:19:01 +0300] Sync Log:  [END] Updating file app/controllers/application_controller.rb
 [2018-08-07 17:19:01 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:19:14.51 on 07 Aug 2018
 [2018-08-07 17:19:01 +0300] Sync Log:  Synchronization complete at 17:19:14  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-07 23:00:22 +0300] Sync Log:  Error response from daemon: Bad response from Docker engine
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-16 12:33:41 +0300] Sync Log:  [END] Updating file app/controllers/application_controller.rb
+[2018-08-16 12:33:41 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 17:19:14.51 on 07 Aug 2018
+[2018-08-16 12:33:41 +0300] Sync Log:  Synchronization complete at 17:19:14  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-16 12:33:41 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 12:33:42.13 on 16 Aug 2018
+[2018-08-16 12:33:41 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-16 12:33:41 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-16 12:33:41 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-16 12:33:41 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.pid
+[2018-08-16 12:33:41 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 12:33:42.13 on 16 Aug 2018
+[2018-08-16 12:33:41 +0300] Sync Log:  Synchronization complete at 12:33:42  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-16 22:09:22 +0300] Sync Log:  Error response from daemon: Bad response from Docker engine
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 12:23:09 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 12:23:09 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.pid
+[2018-08-17 12:23:09 +0300] Sync Log:  [BGN] Updating file app/controllers/application_controller.rb from /host_sync to /app_sync
+[2018-08-17 12:23:09 +0300] Sync Log:  [END] Updating file app/controllers/application_controller.rb
+[2018-08-17 12:23:09 +0300] Sync Log:  [BGN] Copying app/views/application/generate.haml from /host_sync to /app_sync
+[2018-08-17 12:23:09 +0300] Sync Log:  [END] Copying app/views/application/generate.haml
+[2018-08-17 12:23:09 +0300] Sync Log:  [BGN] Deleting app/views/application/blank.haml from /app_sync
+[2018-08-17 12:23:09 +0300] Sync Log:  [END] Deleting app/views/application/blank.haml
+[2018-08-17 12:23:09 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 12:23:09.97 on 17 Aug 2018
+[2018-08-17 12:23:09 +0300] Sync Log:  Synchronization complete at 12:23:09  (5 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 12:39:23 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 12:39:23 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 12:39:22.36 on 17 Aug 2018
+[2018-08-17 12:39:23 +0300] Sync Log:  Synchronization complete at 12:39:22  (5 items transferred, 0 skipped, 0 failed)
+[2018-08-17 12:39:23 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 12:39:23.71 on 17 Aug 2018
+[2018-08-17 12:39:23 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 12:39:23 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 12:39:23 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 12:39:23 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 12:39:23 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 12:39:23.71 on 17 Aug 2018
+[2018-08-17 12:39:23 +0300] Sync Log:  Synchronization complete at 12:39:23  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 13:49:13 +0300] Sync Log:  [END] Deleting app/controllers/admin/link_controller.rb
+[2018-08-17 13:49:13 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:49:13.11 on 17 Aug 2018
+[2018-08-17 13:49:13 +0300] Sync Log:  Synchronization complete at 13:49:13  (4 items transferred, 0 skipped, 0 failed)
+[2018-08-17 13:49:13 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:49:14.35 on 17 Aug 2018
+[2018-08-17 13:49:13 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 13:49:13 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 13:49:13 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 13:49:13 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 13:49:13 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:49:14.35 on 17 Aug 2018
+[2018-08-17 13:49:13 +0300] Sync Log:  Synchronization complete at 13:49:14  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 13:49:52 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:49:54.38 on 17 Aug 2018
+[2018-08-17 13:49:52 +0300] Sync Log:  [BGN] Copying app/views/admin from /host_sync to /app_sync
+[2018-08-17 13:49:52 +0300] Sync Log:  [END] Copying app/views/admin
+[2018-08-17 13:49:52 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:49:54.38 on 17 Aug 2018
+[2018-08-17 13:49:52 +0300] Sync Log:  Synchronization complete at 13:49:54  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 13:49:59 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:50:00.49 on 17 Aug 2018
+[2018-08-17 13:49:59 +0300] Sync Log:  [BGN] Copying app/views/admin/links from /host_sync to /app_sync
+[2018-08-17 13:49:59 +0300] Sync Log:  [END] Copying app/views/admin/links
+[2018-08-17 13:49:59 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:50:00.49 on 17 Aug 2018
+[2018-08-17 13:49:59 +0300] Sync Log:  Synchronization complete at 13:50:00  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 13:50:04 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:50:06.00 on 17 Aug 2018
+[2018-08-17 13:50:04 +0300] Sync Log:  [BGN] Deleting app/views/application/generate.haml from /app_sync
+[2018-08-17 13:50:04 +0300] Sync Log:  [END] Deleting app/views/application/generate.haml
+[2018-08-17 13:50:04 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:50:06.00 on 17 Aug 2018
+[2018-08-17 13:50:04 +0300] Sync Log:  Synchronization complete at 13:50:06  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 13:50:05 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:50:07.01 on 17 Aug 2018
+[2018-08-17 13:50:05 +0300] Sync Log:  [BGN] Copying app/views/admin/links/generate.haml from /host_sync to /app_sync
+[2018-08-17 13:50:05 +0300] Sync Log:  [END] Copying app/views/admin/links/generate.haml
+[2018-08-17 13:50:05 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:50:07.01 on 17 Aug 2018
+[2018-08-17 13:50:05 +0300] Sync Log:  Synchronization complete at 13:50:07  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 13:50:10 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:50:12.14 on 17 Aug 2018
+[2018-08-17 13:50:10 +0300] Sync Log:  [BGN] Deleting app/views/admin/links/generate.haml from /app_sync
+[2018-08-17 13:50:10 +0300] Sync Log:  [END] Deleting app/views/admin/links/generate.haml
+[2018-08-17 13:50:10 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:50:12.14 on 17 Aug 2018
+[2018-08-17 13:50:10 +0300] Sync Log:  Synchronization complete at 13:50:12  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 13:50:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:50:13.15 on 17 Aug 2018
+[2018-08-17 13:50:11 +0300] Sync Log:  [BGN] Copying app/views/admin/links/new.haml from /host_sync to /app_sync
+[2018-08-17 13:50:11 +0300] Sync Log:  [END] Copying app/views/admin/links/new.haml
+[2018-08-17 13:50:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:50:13.15 on 17 Aug 2018
+[2018-08-17 13:50:11 +0300] Sync Log:  Synchronization complete at 13:50:13  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 13:50:13 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:50:15.15 on 17 Aug 2018
+[2018-08-17 13:50:13 +0300] Sync Log:  [BGN] Updating file app/controllers/admin/links_controller.rb from /host_sync to /app_sync
+[2018-08-17 13:50:13 +0300] Sync Log:  [END] Updating file app/controllers/admin/links_controller.rb
+[2018-08-17 13:50:13 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:50:15.16 on 17 Aug 2018
+[2018-08-17 13:50:13 +0300] Sync Log:  Synchronization complete at 13:50:15  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:02:34 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:02:34 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:02:34.23 on 17 Aug 2018
+[2018-08-17 14:02:34 +0300] Sync Log:  Synchronization complete at 14:02:34  (4 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:02:34 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:02:35.47 on 17 Aug 2018
+[2018-08-17 14:02:34 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:02:34 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:02:34 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:02:34 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:02:34 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:02:35.48 on 17 Aug 2018
+[2018-08-17 14:02:34 +0300] Sync Log:  Synchronization complete at 14:02:35  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:03:27 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:03:29.48 on 17 Aug 2018
+[2018-08-17 14:03:27 +0300] Sync Log:  [BGN] Updating file app/controllers/application_controller.rb from /host_sync to /app_sync
+[2018-08-17 14:03:27 +0300] Sync Log:  [END] Updating file app/controllers/application_controller.rb
+[2018-08-17 14:03:27 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:03:29.49 on 17 Aug 2018
+[2018-08-17 14:03:27 +0300] Sync Log:  Synchronization complete at 14:03:29  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:04:45 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:04:47.27 on 17 Aug 2018
+[2018-08-17 14:04:45 +0300] Sync Log:  [BGN] Updating file app/controllers/application_controller.rb from /host_sync to /app_sync
+[2018-08-17 14:04:45 +0300] Sync Log:  [END] Updating file app/controllers/application_controller.rb
+[2018-08-17 14:04:45 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:04:47.27 on 17 Aug 2018
+[2018-08-17 14:04:45 +0300] Sync Log:  Synchronization complete at 14:04:47  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:05:09 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:05:09 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:05:09.33 on 17 Aug 2018
+[2018-08-17 14:05:09 +0300] Sync Log:  Synchronization complete at 14:05:09  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:05:09 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:05:10.56 on 17 Aug 2018
+[2018-08-17 14:05:09 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:05:09 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:05:09 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:05:09 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:05:09 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:05:10.56 on 17 Aug 2018
+[2018-08-17 14:05:09 +0300] Sync Log:  Synchronization complete at 14:05:10  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:06:01 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:06:03.08 on 17 Aug 2018
+[2018-08-17 14:06:01 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:06:01 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:06:01 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:06:03.08 on 17 Aug 2018
+[2018-08-17 14:06:01 +0300] Sync Log:  Synchronization complete at 14:06:03  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:07:41 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:07:41 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:07:41.79 on 17 Aug 2018
+[2018-08-17 14:07:41 +0300] Sync Log:  Synchronization complete at 14:07:41  (3 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:07:41 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:07:43.03 on 17 Aug 2018
+[2018-08-17 14:07:41 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:07:41 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:07:41 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:07:41 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:07:41 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:07:43.04 on 17 Aug 2018
+[2018-08-17 14:07:41 +0300] Sync Log:  Synchronization complete at 14:07:43  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:08:05 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:08:08.07 on 17 Aug 2018
+[2018-08-17 14:08:05 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /host_sync to /app_sync
+[2018-08-17 14:08:05 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2018-08-17 14:08:05 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:08:08.07 on 17 Aug 2018
+[2018-08-17 14:08:05 +0300] Sync Log:  Synchronization complete at 14:08:08  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:08:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:08:13.46 on 17 Aug 2018
+[2018-08-17 14:08:11 +0300] Sync Log:  [BGN] Copying app/models/visit.rb from /host_sync to /app_sync
+[2018-08-17 14:08:11 +0300] Sync Log:  [END] Copying app/models/visit.rb
+[2018-08-17 14:08:11 +0300] Sync Log:  [BGN] Copying config/initializers/ahoy.rb from /host_sync to /app_sync
+[2018-08-17 14:08:11 +0300] Sync Log:  [END] Copying config/initializers/ahoy.rb
+[2018-08-17 14:08:11 +0300] Sync Log:  [BGN] Copying db/migrate/20180817110809_create_visits.rb from /host_sync to /app_sync
+[2018-08-17 14:08:11 +0300] Sync Log:  [END] Copying db/migrate/20180817110809_create_visits.rb
+[2018-08-17 14:08:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:08:13.46 on 17 Aug 2018
+[2018-08-17 14:08:11 +0300] Sync Log:  Synchronization complete at 14:08:13  (3 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:08:12 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:08:14.47 on 17 Aug 2018
+[2018-08-17 14:08:12 +0300] Sync Log:  [BGN] Copying app/models/ahoy from /host_sync to /app_sync
+[2018-08-17 14:08:12 +0300] Sync Log:  [END] Copying app/models/ahoy
+[2018-08-17 14:08:12 +0300] Sync Log:  [BGN] Copying db/migrate/20180817110810_create_ahoy_events.rb from /host_sync to /app_sync
+[2018-08-17 14:08:12 +0300] Sync Log:  [END] Copying db/migrate/20180817110810_create_ahoy_events.rb
+[2018-08-17 14:08:12 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:08:14.47 on 17 Aug 2018
+[2018-08-17 14:08:12 +0300] Sync Log:  Synchronization complete at 14:08:14  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:10:04 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:10:06.26 on 17 Aug 2018
+[2018-08-17 14:10:04 +0300] Sync Log:  [BGN] Copying db/migrate/20180817111002_add_options_to_link.rb from /host_sync to /app_sync
+[2018-08-17 14:10:04 +0300] Sync Log:  [END] Copying db/migrate/20180817111002_add_options_to_link.rb
+[2018-08-17 14:10:04 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:10:06.26 on 17 Aug 2018
+[2018-08-17 14:10:04 +0300] Sync Log:  Synchronization complete at 14:10:06  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:10:19 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:10:21.68 on 17 Aug 2018
+[2018-08-17 14:10:19 +0300] Sync Log:  [BGN] Updating file db/migrate/20180817111002_add_options_to_link.rb from /host_sync to /app_sync
+[2018-08-17 14:10:19 +0300] Sync Log:  [END] Updating file db/migrate/20180817111002_add_options_to_link.rb
+[2018-08-17 14:10:19 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:10:21.68 on 17 Aug 2018
+[2018-08-17 14:10:19 +0300] Sync Log:  Synchronization complete at 14:10:21  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:12:54 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:12:54 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:12:54.51 on 17 Aug 2018
+[2018-08-17 14:12:54 +0300] Sync Log:  Synchronization complete at 14:12:54  (3 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:12:54 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:12:55.74 on 17 Aug 2018
+[2018-08-17 14:12:54 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:12:54 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:12:54 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:12:54 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:12:54 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:12:55.75 on 17 Aug 2018
+[2018-08-17 14:12:54 +0300] Sync Log:  Synchronization complete at 14:12:55  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:13:42 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:13:44.81 on 17 Aug 2018
+[2018-08-17 14:13:42 +0300] Sync Log:  [BGN] Updating file db/migrate/20180817110809_create_visits.rb from /host_sync to /app_sync
+[2018-08-17 14:13:42 +0300] Sync Log:  [END] Updating file db/migrate/20180817110809_create_visits.rb
+[2018-08-17 14:13:42 +0300] Sync Log:  [BGN] Updating file db/migrate/20180817110810_create_ahoy_events.rb from /host_sync to /app_sync
+[2018-08-17 14:13:42 +0300] Sync Log:  [END] Updating file db/migrate/20180817110810_create_ahoy_events.rb
+[2018-08-17 14:13:42 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:13:44.81 on 17 Aug 2018
+[2018-08-17 14:13:42 +0300] Sync Log:  Synchronization complete at 14:13:44  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:13:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:13:48.40 on 17 Aug 2018
+[2018-08-17 14:13:46 +0300] Sync Log:  [BGN] Updating file db/schema.rb from /host_sync to /app_sync
+[2018-08-17 14:13:46 +0300] Sync Log:  [END] Updating file db/schema.rb
+[2018-08-17 14:13:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:13:48.40 on 17 Aug 2018
+[2018-08-17 14:13:46 +0300] Sync Log:  Synchronization complete at 14:13:48  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:19:45 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:19:45 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:19:45.81 on 17 Aug 2018
+[2018-08-17 14:19:45 +0300] Sync Log:  Synchronization complete at 14:19:45  (5 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:19:45 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:19:47.05 on 17 Aug 2018
+[2018-08-17 14:19:45 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:19:45 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:19:45 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:19:45 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:19:45 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:19:47.05 on 17 Aug 2018
+[2018-08-17 14:19:45 +0300] Sync Log:  Synchronization complete at 14:19:47  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:21:50 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:21:50 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:21:50.34 on 17 Aug 2018
+[2018-08-17 14:21:50 +0300] Sync Log:  Synchronization complete at 14:21:50  (3 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:21:50 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:21:51.58 on 17 Aug 2018
+[2018-08-17 14:21:50 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:21:50 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:21:50 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:21:50 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:21:50 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:21:51.58 on 17 Aug 2018
+[2018-08-17 14:21:50 +0300] Sync Log:  Synchronization complete at 14:21:51  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:27:09 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:27:09 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:27:09.83 on 17 Aug 2018
+[2018-08-17 14:27:09 +0300] Sync Log:  Synchronization complete at 14:27:09  (3 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:27:09 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:27:11.07 on 17 Aug 2018
+[2018-08-17 14:27:09 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:27:09 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:27:09 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:27:09 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:27:09 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:27:11.08 on 17 Aug 2018
+[2018-08-17 14:27:09 +0300] Sync Log:  Synchronization complete at 14:27:11  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:28:18 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:28:20.45 on 17 Aug 2018
+[2018-08-17 14:28:18 +0300] Sync Log:  [BGN] Updating file app/controllers/links_controller.rb from /host_sync to /app_sync
+[2018-08-17 14:28:18 +0300] Sync Log:  [END] Updating file app/controllers/links_controller.rb
+[2018-08-17 14:28:18 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:28:20.45 on 17 Aug 2018
+[2018-08-17 14:28:18 +0300] Sync Log:  Synchronization complete at 14:28:20  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:28:26 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:28:26 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:28:27.04 on 17 Aug 2018
+[2018-08-17 14:28:26 +0300] Sync Log:  Synchronization complete at 14:28:27  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:28:26 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:28:28.28 on 17 Aug 2018
+[2018-08-17 14:28:26 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:28:26 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:28:26 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:28:26 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:28:26 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:28:28.28 on 17 Aug 2018
+[2018-08-17 14:28:26 +0300] Sync Log:  Synchronization complete at 14:28:28  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:29:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:29:34.16 on 17 Aug 2018
+[2018-08-17 14:29:31 +0300] Sync Log:  [BGN] Updating file app/controllers/application_controller.rb from /host_sync to /app_sync
+[2018-08-17 14:29:31 +0300] Sync Log:  [END] Updating file app/controllers/application_controller.rb
+[2018-08-17 14:29:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:29:34.16 on 17 Aug 2018
+[2018-08-17 14:29:31 +0300] Sync Log:  Synchronization complete at 14:29:34  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:29:40 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:29:40 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:29:40.92 on 17 Aug 2018
+[2018-08-17 14:29:40 +0300] Sync Log:  Synchronization complete at 14:29:40  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:29:40 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:29:42.16 on 17 Aug 2018
+[2018-08-17 14:29:40 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:29:40 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:29:40 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:29:40 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:29:40 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:29:42.16 on 17 Aug 2018
+[2018-08-17 14:29:40 +0300] Sync Log:  Synchronization complete at 14:29:42  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:30:35 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:30:38.18 on 17 Aug 2018
+[2018-08-17 14:30:35 +0300] Sync Log:  [BGN] Updating file Gemfile from /host_sync to /app_sync
+[2018-08-17 14:30:35 +0300] Sync Log:  [END] Updating file Gemfile
+[2018-08-17 14:30:35 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:30:38.19 on 17 Aug 2018
+[2018-08-17 14:30:35 +0300] Sync Log:  Synchronization complete at 14:30:38  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:31:46 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:31:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:31:46.80 on 17 Aug 2018
+[2018-08-17 14:31:46 +0300] Sync Log:  Synchronization complete at 14:31:46  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:31:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:31:48.03 on 17 Aug 2018
+[2018-08-17 14:31:46 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:31:46 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:31:46 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:31:46 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:31:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:31:48.03 on 17 Aug 2018
+[2018-08-17 14:31:46 +0300] Sync Log:  Synchronization complete at 14:31:48  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:31:48 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:31:50.57 on 17 Aug 2018
+[2018-08-17 14:31:48 +0300] Sync Log:  [BGN] Updating file Gemfile.lock from /app_sync to /host_sync
+[2018-08-17 14:31:48 +0300] Sync Log:  [END] Updating file Gemfile.lock
+[2018-08-17 14:31:48 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:31:50.57 on 17 Aug 2018
+[2018-08-17 14:31:48 +0300] Sync Log:  Synchronization complete at 14:31:50  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:33:56 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:33:58.86 on 17 Aug 2018
+[2018-08-17 14:33:56 +0300] Sync Log:  [BGN] Updating file Gemfile from /host_sync to /app_sync
+[2018-08-17 14:33:56 +0300] Sync Log:  [END] Updating file Gemfile
+[2018-08-17 14:33:56 +0300] Sync Log:  [BGN] Updating file app/controllers/application_controller.rb from /host_sync to /app_sync
+[2018-08-17 14:33:56 +0300] Sync Log:  [END] Updating file app/controllers/application_controller.rb
+[2018-08-17 14:33:56 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:33:58.86 on 17 Aug 2018
+[2018-08-17 14:33:56 +0300] Sync Log:  Synchronization complete at 14:33:58  (2 items transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:40:24 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:40:24 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:40:25.26 on 17 Aug 2018
+[2018-08-17 14:40:24 +0300] Sync Log:  Synchronization complete at 14:40:25  (4 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:40:24 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:40:26.50 on 17 Aug 2018
+[2018-08-17 14:40:24 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:40:24 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:40:24 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:40:24 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:40:24 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:40:26.50 on 17 Aug 2018
+[2018-08-17 14:40:24 +0300] Sync Log:  Synchronization complete at 14:40:26  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:42:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:42:42.54 on 17 Aug 2018
+[2018-08-17 14:42:39 +0300] Sync Log:  [BGN] Updating file app/helpers/application_helper.rb from /host_sync to /app_sync
+[2018-08-17 14:42:39 +0300] Sync Log:  [END] Updating file app/helpers/application_helper.rb
+[2018-08-17 14:42:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:42:42.54 on 17 Aug 2018
+[2018-08-17 14:42:39 +0300] Sync Log:  Synchronization complete at 14:42:42  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:43:56 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:43:56 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:43:57.28 on 17 Aug 2018
+[2018-08-17 14:43:56 +0300] Sync Log:  Synchronization complete at 14:43:57  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:43:56 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:43:58.52 on 17 Aug 2018
+[2018-08-17 14:43:56 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:43:56 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:43:56 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:43:56 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:43:56 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:43:58.52 on 17 Aug 2018
+[2018-08-17 14:43:56 +0300] Sync Log:  Synchronization complete at 14:43:58  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:47:38 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:47:41.33 on 17 Aug 2018
+[2018-08-17 14:47:38 +0300] Sync Log:  [BGN] Updating file app/helpers/application_helper.rb from /host_sync to /app_sync
+[2018-08-17 14:47:38 +0300] Sync Log:  [END] Updating file app/helpers/application_helper.rb
+[2018-08-17 14:47:38 +0300] Sync Log:  [BGN] Updating file app/models/link.rb from /host_sync to /app_sync
+[2018-08-17 14:47:38 +0300] Sync Log:  [END] Updating file app/models/link.rb
+[2018-08-17 14:47:38 +0300] Sync Log:  [BGN] Updating file app/views/admin/links/new.haml from /host_sync to /app_sync
+[2018-08-17 14:47:38 +0300] Sync Log:  [END] Updating file app/views/admin/links/new.haml
+[2018-08-17 14:47:38 +0300] Sync Log:  [BGN] Updating file config/routes.rb from /host_sync to /app_sync
+[2018-08-17 14:47:38 +0300] Sync Log:  [END] Updating file config/routes.rb
+[2018-08-17 14:47:38 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:47:41.34 on 17 Aug 2018
+[2018-08-17 14:47:38 +0300] Sync Log:  Synchronization complete at 14:47:41  (4 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:49:02 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:49:04.79 on 17 Aug 2018
+[2018-08-17 14:49:02 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:49:02 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:49:02 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:49:04.79 on 17 Aug 2018
+[2018-08-17 14:49:02 +0300] Sync Log:  Synchronization complete at 14:49:04  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:52:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:52:41.93 on 17 Aug 2018
+[2018-08-17 14:52:39 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:52:39 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:52:39 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:52:41.93 on 17 Aug 2018
+[2018-08-17 14:52:39 +0300] Sync Log:  Synchronization complete at 14:52:41  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:53:25 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:53:27.37 on 17 Aug 2018
+[2018-08-17 14:53:25 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:53:25 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:53:25 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:53:27.37 on 17 Aug 2018
+[2018-08-17 14:53:25 +0300] Sync Log:  Synchronization complete at 14:53:27  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:54:22 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:54:24.88 on 17 Aug 2018
+[2018-08-17 14:54:22 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:54:22 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:54:22 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:54:24.88 on 17 Aug 2018
+[2018-08-17 14:54:22 +0300] Sync Log:  Synchronization complete at 14:54:24  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:55:00 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:55:02.94 on 17 Aug 2018
+[2018-08-17 14:55:00 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:55:00 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:55:00 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:55:02.94 on 17 Aug 2018
+[2018-08-17 14:55:00 +0300] Sync Log:  Synchronization complete at 14:55:02  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:55:26 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:55:28.78 on 17 Aug 2018
+[2018-08-17 14:55:26 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:55:26 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:55:26 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:55:28.78 on 17 Aug 2018
+[2018-08-17 14:55:26 +0300] Sync Log:  Synchronization complete at 14:55:28  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 14:56:29 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:56:31.69 on 17 Aug 2018
+[2018-08-17 14:56:29 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:56:29 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:56:29 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:56:31.69 on 17 Aug 2018
+[2018-08-17 14:56:29 +0300] Sync Log:  Synchronization complete at 14:56:31  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:56:46 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:56:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:56:47.57 on 17 Aug 2018
+[2018-08-17 14:56:46 +0300] Sync Log:  Synchronization complete at 14:56:47  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:56:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:56:48.80 on 17 Aug 2018
+[2018-08-17 14:56:46 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:56:46 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:56:46 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:56:46 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:56:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:56:48.80 on 17 Aug 2018
+[2018-08-17 14:56:46 +0300] Sync Log:  Synchronization complete at 14:56:48  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:59:27 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:59:30.56 on 17 Aug 2018
+[2018-08-17 14:59:27 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:59:27 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:59:27 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:59:30.56 on 17 Aug 2018
+[2018-08-17 14:59:27 +0300] Sync Log:  Synchronization complete at 14:59:30  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:59:36 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:59:36 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:59:37.67 on 17 Aug 2018
+[2018-08-17 14:59:36 +0300] Sync Log:  Synchronization complete at 14:59:37  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:59:36 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:59:38.91 on 17 Aug 2018
+[2018-08-17 14:59:36 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:59:36 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:59:36 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:59:36 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:59:36 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:59:38.91 on 17 Aug 2018
+[2018-08-17 14:59:36 +0300] Sync Log:  Synchronization complete at 14:59:38  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:59:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:59:49.68 on 17 Aug 2018
+[2018-08-17 14:59:46 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 14:59:46 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 14:59:46 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:59:49.68 on 17 Aug 2018
+[2018-08-17 14:59:46 +0300] Sync Log:  Synchronization complete at 14:59:49  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 14:59:55 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 14:59:55 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:59:56.00 on 17 Aug 2018
+[2018-08-17 14:59:55 +0300] Sync Log:  Synchronization complete at 14:59:56  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 14:59:55 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 14:59:57.27 on 17 Aug 2018
+[2018-08-17 14:59:55 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 14:59:55 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 14:59:55 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 14:59:55 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 14:59:55 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 14:59:57.27 on 17 Aug 2018
+[2018-08-17 14:59:55 +0300] Sync Log:  Synchronization complete at 14:59:57  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:01:22 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:01:24.57 on 17 Aug 2018
+[2018-08-17 15:01:22 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 15:01:22 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 15:01:22 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:01:24.57 on 17 Aug 2018
+[2018-08-17 15:01:22 +0300] Sync Log:  Synchronization complete at 15:01:24  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 15:01:33 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 15:01:33 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:01:34.10 on 17 Aug 2018
+[2018-08-17 15:01:33 +0300] Sync Log:  Synchronization complete at 15:01:34  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:01:33 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:01:35.34 on 17 Aug 2018
+[2018-08-17 15:01:33 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 15:01:33 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 15:01:33 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 15:01:33 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 15:01:33 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:01:35.34 on 17 Aug 2018
+[2018-08-17 15:01:33 +0300] Sync Log:  Synchronization complete at 15:01:35  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:02:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:02:34.08 on 17 Aug 2018
+[2018-08-17 15:02:31 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 15:02:31 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 15:02:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:02:34.08 on 17 Aug 2018
+[2018-08-17 15:02:31 +0300] Sync Log:  Synchronization complete at 15:02:34  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 15:03:31 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 15:03:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:03:32.10 on 17 Aug 2018
+[2018-08-17 15:03:31 +0300] Sync Log:  Synchronization complete at 15:03:32  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:03:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:03:33.35 on 17 Aug 2018
+[2018-08-17 15:03:31 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 15:03:31 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 15:03:31 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 15:03:31 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 15:03:31 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:03:33.35 on 17 Aug 2018
+[2018-08-17 15:03:31 +0300] Sync Log:  Synchronization complete at 15:03:33  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:04:58 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:05:00.94 on 17 Aug 2018
+[2018-08-17 15:04:58 +0300] Sync Log:  [BGN] Updating file app/models/link.rb from /host_sync to /app_sync
+[2018-08-17 15:04:58 +0300] Sync Log:  [END] Updating file app/models/link.rb
+[2018-08-17 15:04:58 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:05:00.94 on 17 Aug 2018
+[2018-08-17 15:04:58 +0300] Sync Log:  Synchronization complete at 15:05:00  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 15:06:23 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:06:26.03 on 17 Aug 2018
+[2018-08-17 15:06:23 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 15:06:23 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 15:06:23 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:06:26.03 on 17 Aug 2018
+[2018-08-17 15:06:23 +0300] Sync Log:  Synchronization complete at 15:06:26  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 15:10:25 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:10:28.01 on 17 Aug 2018
+[2018-08-17 15:10:25 +0300] Sync Log:  [BGN] Updating file run.sh from /host_sync to /app_sync
+[2018-08-17 15:10:25 +0300] Sync Log:  [END] Updating file run.sh
+[2018-08-17 15:10:25 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:10:28.02 on 17 Aug 2018
+[2018-08-17 15:10:25 +0300] Sync Log:  Synchronization complete at 15:10:28  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 15:11:56 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:11:59.73 on 17 Aug 2018
+[2018-08-17 15:11:56 +0300] Sync Log:  [BGN] Updating file Dockerfile from /host_sync to /app_sync
+[2018-08-17 15:11:56 +0300] Sync Log:  [END] Updating file Dockerfile
+[2018-08-17 15:11:56 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:11:59.73 on 17 Aug 2018
+[2018-08-17 15:11:56 +0300] Sync Log:  Synchronization complete at 15:11:59  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 15:12:11 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 15:12:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:12:12.74 on 17 Aug 2018
+[2018-08-17 15:12:11 +0300] Sync Log:  Synchronization complete at 15:12:12  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:12:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:12:13.98 on 17 Aug 2018
+[2018-08-17 15:12:11 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 15:12:11 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 15:12:11 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 15:12:11 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 15:12:11 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:12:13.98 on 17 Aug 2018
+[2018-08-17 15:12:11 +0300] Sync Log:  Synchronization complete at 15:12:13  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:12:48 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:12:51.89 on 17 Aug 2018
+[2018-08-17 15:12:48 +0300] Sync Log:  [BGN] Updating file Dockerfile from /host_sync to /app_sync
+[2018-08-17 15:12:48 +0300] Sync Log:  [END] Updating file Dockerfile
+[2018-08-17 15:12:48 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:12:51.89 on 17 Aug 2018
+[2018-08-17 15:12:48 +0300] Sync Log:  Synchronization complete at 15:12:51  (1 item transferred, 0 skipped, 0 failed)
+[2018-08-17 15:12:55 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:12:58.18 on 17 Aug 2018
+[2018-08-17 15:12:55 +0300] Sync Log:  [BGN] Updating file Dockerfile from /host_sync to /app_sync
+[2018-08-17 15:12:55 +0300] Sync Log:  [END] Updating file Dockerfile
+[2018-08-17 15:12:55 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:12:58.18 on 17 Aug 2018
+[2018-08-17 15:12:55 +0300] Sync Log:  Synchronization complete at 15:12:58  (1 item transferred, 0 skipped, 0 failed)
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-08-17 15:13:06 +0300] Sync Log:  [END] Deleting .docker-sync/daemon.pid
+[2018-08-17 15:13:06 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:13:06.98 on 17 Aug 2018
+[2018-08-17 15:13:06 +0300] Sync Log:  Synchronization complete at 15:13:06  (2 items transferred, 0 skipped, 0 failed)
+[2018-08-17 15:13:06 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 15:13:08.22 on 17 Aug 2018
+[2018-08-17 15:13:06 +0300] Sync Log:  [BGN] Updating file .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-08-17 15:13:06 +0300] Sync Log:  [END] Updating file .docker-sync/daemon.log
+[2018-08-17 15:13:06 +0300] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-08-17 15:13:06 +0300] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-08-17 15:13:06 +0300] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 15:13:08.22 on 17 Aug 2018
+[2018-08-17 15:13:06 +0300] Sync Log:  Synchronization complete at 15:13:08  (2 items transferred, 0 skipped, 0 failed)
